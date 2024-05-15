@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "SenderApi"
+		},
+		{
+			"path": "ReciverConsoleAsync"
+		},
+		{
+			"path": "ReciverConsoleSync"
+		}
+	],
+	"settings": {}
+}

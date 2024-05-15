@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2ydCg8geFHbiE4cxwJC9bkSDmN/gzc058Gd4sWXAxfE=",
+  "Source": "SenderApi",
+  "BasePath": "_content/SenderApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
