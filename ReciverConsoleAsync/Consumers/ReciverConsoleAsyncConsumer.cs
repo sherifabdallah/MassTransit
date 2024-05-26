@@ -1,3 +1,5 @@
+using Internal;
+using System;
 namespace ReciverConsoleAsync.Consumers
 {
     using System.Threading.Tasks;
@@ -22,8 +24,8 @@ namespace ReciverConsoleAsync.Consumers
             _logger.LogInformation("Received Text: {Text}", context.Message.Value);
 
             // Prompt the user for a response
-            _logger.LogInformation("Please Enter a response for this message: ");
-            string responseMsg = Console.ReadLine();
+            //_logger.LogInformation("Please Enter a response for this message: ");
+            DateTime responseMsg = DateTime.Now;
 
             // Create the response message
             var response = new ResponseMessage
@@ -37,7 +39,7 @@ namespace ReciverConsoleAsync.Consumers
             // Optional: you can remove this commented-out line since it's redundant
             // return Task.CompletedTask;
 
-            _logger.LogInformation("Response message sent successfully");
+            // _logger.LogInformation($"Response message sent successfully: {context.Message.Value}");
         }
 
     }

@@ -33,7 +33,7 @@ namespace ReciverConsoleSync.Consumers
             // Send the response message
             context.Respond(response);
 
-            _logger.LogInformation("Response message sent successfully");
+            _logger.LogInformation($"Response message sent successfully: {context.Message.Value}");
 
             // Return a completed Task since the method signature requires it
             return Task.CompletedTask;

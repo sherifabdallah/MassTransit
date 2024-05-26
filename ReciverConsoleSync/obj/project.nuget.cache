@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xtewz8z31EVsMMGL4gxS6Q5Sliqt7k/tM705K7YqJjfZfjXL6lXznct6H/bx2V0fiOu5upm0fhYyf0BJ+aQaMg==",
+  "dgSpecHash": "pH9Ggz8C23M=",
   "success": true,
   "projectFilePath": "c:\\Users\\Sherif-Abdullah\\Desktop\\Demo\\MTMQ\\ReciverConsoleSync\\ReciverConsoleAsync.csproj",
   "expectedPackageFiles": [
@@ -42,10 +42,10 @@
     "C:\\Users\\Sherif-Abdullah\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\Sherif-Abdullah\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
     "C:\\Users\\Sherif-Abdullah\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
-    "C:\\Users\\Sherif-Abdullah\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
-    "C:\\Users\\Sherif-Abdullah\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
-    "C:\\Users\\Sherif-Abdullah\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
-    "C:\\Users\\Sherif-Abdullah\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+    "C:\\Users\\Sherif-Abdullah\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Sherif-Abdullah\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Sherif-Abdullah\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Sherif-Abdullah\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.30\\microsoft.netcore.app.host.win-x64.6.0.30.nupkg.sha512"
   ],
   "logs": []
 }

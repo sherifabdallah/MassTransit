@@ -51,3 +51,4 @@ C:\Users\Sherif-Abdullah\Desktop\Demo\MTMQ\ReciverConsoleAsync\obj\Debug\net6.0\
 C:\Users\Sherif-Abdullah\Desktop\Demo\MTMQ\ReciverConsoleAsync\obj\Debug\net6.0\ReciverConsoleAsync.pdb
 C:\Users\Sherif-Abdullah\Desktop\Demo\MTMQ\ReciverConsoleAsync\obj\Debug\net6.0\ReciverConsoleAsync.genruntimeconfig.cache
 C:\Users\Sherif-Abdullah\Desktop\Demo\MTMQ\ReciverConsoleAsync\obj\Debug\net6.0\ref\ReciverConsoleAsync.dll
+C:\Users\Sherif-Abdullah\Desktop\Demo\MTMQ\ReciverConsoleAsync\obj\Debug\net6.0\ReciverConsoleAsync.sourcelink.json

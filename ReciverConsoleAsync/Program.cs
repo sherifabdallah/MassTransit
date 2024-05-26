@@ -18,6 +18,7 @@ namespace ReciverConsoleAsync
                 {
                     services.AddMassTransit(x =>
                     {
+                        
                         x.AddConsumer<ReciverConsoleAsyncConsumer>(); // Register the consumer
 
                         x.UsingRabbitMq((context, cfg) =>
@@ -29,10 +30,10 @@ namespace ReciverConsoleAsync
                             });
 
                             cfg.ConfigureEndpoints(context); // Configure endpoints for consumers
-                            cfg.ReceiveEndpoint("test_queue", e =>
-                            {
-                                e.ConfigureConsumer<ReciverConsoleAsyncConsumer>(context);
-                            });
+                            // cfg.ReceiveEndpoint("test_queue", e =>
+                            // {
+                            //     e.ConfigureConsumer<ReciverConsoleAsyncConsumer>(context);
+                            // });
                         });
                     });
 
